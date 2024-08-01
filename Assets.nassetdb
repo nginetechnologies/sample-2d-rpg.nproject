@@ -1,0 +1,33 @@
+{
+    "be7bf210-e1c7-6066-eb23-8c36e9b9ffbb": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Top Down.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "c4d74135-b0dd-4dba-80c0-b064d9f22d0c": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "2D RPG",
+        "thumbnail": "ce495ddd-0522-25cb-ca8a-d46ff8a7eadf",
+        "tags": [
+            "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
+        ]
+    },
+    "ce495ddd-0522-25cb-ca8a-d46ff8a7eadf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/2D_RPG_Thumb.tex.nasset"
+    },
+    "d4b23bd4-3d43-11a9-34c9-f751625516ac": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "d5097d63-b3bc-459f-9592-8366aa97ff7b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/2D RPG.scene.nasset"
+    },
+    "guid": "d4b23bd4-3d43-11a9-34c9-f751625516ac"
+}
